@@ -1,6 +1,6 @@
 박스플롯에 대한 설명입니다.
 
-박스플롯은 1977년에 통계학자 John Tukey가 <Exploratory Data Analysis>라는 책에서 처음 소개한
+박스플롯은 1977년에 통계학자 John Tukey가 "Exploratory Data Analysis"라는 책에서 처음 소개한
 시각화 기법입니다.
 
 탐색적 데이터 분석에서 중요한 것 중 하나는 "데이터가 어떻게 생겼는지 느껴보는 것"입니다. 박스플롯은
